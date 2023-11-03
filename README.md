@@ -32,5 +32,13 @@ rustlings 50-60
 ### 10.26-10.27
 学习 ch3 并完成 rCore 训练营 第二阶段 lab1.
 
-### 10.28
+### 10.28 - 10.30
 学习 ch4。
+
+### 10.31
+完成 lab2
+
+### 11.1 - 11.3
+学习 ch5， 完成 lab5 实验
+
+rCore 笔记 https://www.notion.so/epoches/rCore-quick-note-754be70516e442acb7ad78b6d7726b08
